@@ -1,6 +1,6 @@
 #### Hi there, I'm
 
-# [Bhagabati Prasad]()
+# [Bhagabati Prasad][website]
 
 ## I'm a Full Stack Web Developer
 
@@ -111,7 +111,7 @@
 <br />
 <br />
 
-[website]: http://www.ventacv.herokuapp.com
+[website]: http://venta-cv.herokuapp.com
 [twitter]: https://twitter.com/PrasadBhagabati
 [instagram]: https://www.instagram.com/bhagabati_prasad
 [linkedin]: https://www.linkedin.com/in/bhagabati-prasad
