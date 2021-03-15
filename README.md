@@ -10,11 +10,7 @@
 
 ### I L💛ve JavaScript
 
-#### Currently using <button style="background:#ffd600;outline:none;border:none">#JavaScript</button> || <button style="background:#61dafb;outline:none;border:none">#ReactJs</button> || <button style="background:#8c0;outline:none;border:none">#NodeJs</button> || <button style="background:#ffc119;outline:none;border:none">#Python</button>
-
-#### I prefer and am still using <button style="background:#09f;outline:none;border:none">#PHP</button>, irrespective of what others say about it.
-
-<!-- - 🔭 I’m currently working on a [freelance project][website] -->
+#### Currently using **#JavaScript** || **#ReactJs** || **#NodeJs** || **#PHP** || **#Python**
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more on Open Source
@@ -70,7 +66,7 @@
 
 <!-- nodejs -->
 
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]()
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="background:#0f0" />]()
 
 <!-- php -->
 
