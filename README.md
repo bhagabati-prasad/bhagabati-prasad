@@ -135,8 +135,16 @@
 
 [<img align="left" alt="Git" width="47px" src="https://alternative.me/media/256/webflow-icon-csuecwawrfakd3y5-c.png" style="margin-right:10px" />]()
 
-<br />
-<br />
+<br /><br />
+<br /><br />
+
+<!-- profile stats -->
+
+![Bhagabati's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhagabati-prasad&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagabati-prasad&layout=compact&theme=tokyonight)](https://github.com/bhagabati-prasad)
+
+<!-- link variables -->
 
 [website]: http://venta-cv.herokuapp.com
 [twitter]: https://twitter.com/PrasadBhagabati
