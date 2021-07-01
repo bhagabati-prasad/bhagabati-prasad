@@ -142,7 +142,7 @@
 
 ![Bhagabati's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhagabati-prasad&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagabati-prasad&theme=tokyonight)](https://github.com/bhagabati-prasad)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagabati-prasad&layout=compact&theme=tokyonight)](https://github.com/bhagabati-prasad)
 
 <!-- link variables -->
 
