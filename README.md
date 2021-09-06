@@ -1,6 +1,6 @@
 ### Hi there, I'm
 
-# **[Bhagabati Prasad][website]**
+# **[Bhagabati Prasad Panda][website]**
 
 ## I'm a Full Stack Web Developer
 
